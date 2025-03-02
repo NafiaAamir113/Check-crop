@@ -8,9 +8,9 @@ AgriSmart Crop Advisor is a machine-learning-powered web application designed to
 - Accepts user inputs like Nitrogen, Phosphorus, Potassium, pH, temperature, humidity, rainfall, and district  
 - Utilizes a **Random Forest Classifier** for accurate predictions  
 - One-hot encoding for district-based predictions  
-✅ Crop comparison with expected yield and water requirements  
-✅ Personalized farming tips based on irrigation and fertilizer choices  
-✅ Built using **Python, Pandas, Scikit-Learn, and Streamlit**  
+- Crop comparison with expected yield and water requirements  
+- Personalized farming tips based on irrigation and fertilizer choices  
+- Built using **Python, Pandas, Scikit-Learn, and Streamlit**  
 
 ## Tech Stack  
 - **Frontend:** Streamlit  
